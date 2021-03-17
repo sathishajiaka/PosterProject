@@ -1,0 +1,337 @@
+#myTab
+{
+   list-style: none;
+   display: inherit;
+   margin-left: -10px;
+   margin-top: 15px;
+}
+#myTabContent
+{
+  margin-left: 450px;
+  margin-top: -325px;
+}
+.nav-link
+{
+  color: black;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  width: 450px;
+  margin-left: -8px;
+  padding-left: 25px;
+  padding-bottom: 18px;
+  padding-top: 15px;
+}
+.nav-link:hover
+{
+  background-color: rgb(231, 255, 234);
+
+}
+.nav-link:hover
+{
+  color: black;
+}
+
+
+.accountdata
+{
+
+  margin-top: 10px;
+  font-size: 20px;
+  margin-left: -19px;
+  padding-left: 22px;
+  padding-bottom: 17px;
+  padding-top: 8px;
+  font-weight: 800;
+
+}
+.sidenavline
+{
+  margin-left:  60px;
+}
+.accountstn h4
+{
+  margin-top: -35px;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  width: 450px;
+  margin-left: -18px;
+  padding-left: 15px;
+  padding-bottom: 8px;
+}
+#accstn
+{
+  margin-top: -65px;
+  font-size: 20px;
+  margin-left: -19px;
+  padding-left: 22px;
+  padding-bottom: 17px;
+  padding-top: 8px;
+  font-weight: 800;
+}
+#headstn
+{
+  margin-top: 0px;
+  font-size: 20px;
+  margin-left: -19px;
+  padding-left: 22px;
+  padding-bottom: 17px;
+  padding-top: 8px;
+  font-weight: 800;
+}
+
+.accountsnew
+{
+
+  position: fixed;
+  margin-right: 500px;
+}
+#accounts-tab
+{
+  margin-top: -15px;
+  
+}
+.settingsline
+{
+  border: none;
+  border-left: 1px solid rgb(231, 231, 231);
+  background-color: none;
+  height: 701px;
+  position: fixed;
+  margin-left: 436px;
+  margin-top: -430px;
+}
+
+.settingslines
+{
+  border: none;
+  border-left: 1px solid rgb(231, 231, 231);
+  background-color: none;
+  height: 701px;
+  position: fixed;
+  margin-left: 436px;
+  margin-top: -100px;
+}
+.loginli
+{
+  margin-top: 25px;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  width: 450px;
+  margin-left: -18px;
+  padding-left: 15px;
+  height: 33px;
+  padding-bottom: 15px;
+}
+.accountlogin ul
+{
+  list-style: none;
+  margin-left: -41px;
+  
+}
+.accounthead
+{
+  margin-top: 20px;
+  font-size: 20px;
+  margin-left: -19px;
+  padding-left: 22px;
+  padding-bottom: 17px;
+  padding-top: 8px;
+  font-weight: 800;
+  
+}
+.accountlosec
+{
+  margin-top: 0px;
+  font-size: 20px;
+  margin-left: -19px;
+  padding-left: 22px;
+  padding-bottom: 17px;
+  padding-top: 23px;
+  font-weight: 800;
+}
+.accountlogin h5
+{
+  margin-top: -15px;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  width: 450px;
+  margin-left: -18px;
+  padding-left: 15px;
+}
+.accountlogin h4
+{
+  margin-top: 10px;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  width: 450px;
+  margin-left: -18px;
+  padding-left: 15px;
+}
+#about-tab
+{
+  border:none;
+  border-bottom: 10px solid rgb(166, 252, 158);
+
+}
+
+#acccolor
+{
+  border:none;
+  border-bottom: 10px solid rgb(166, 252, 158);
+
+}
+
+.settingsicon
+{
+  color: silver;
+  margin-right: -200px;
+}
+
+
+  #accounticon
+  {
+    margin-left: 330px;
+  }
+
+  #privacyicon
+{
+
+  margin-left: 260px;
+}
+
+#contenticon
+{
+
+  margin-left: 250px; 
+}
+
+#abouticon
+{
+  margin-left: 300px; 
+}
+.accountstn
+{
+margin-right: 500px;
+
+}
+#apsess
+{
+
+  border:none;;
+  padding-top:5px ;
+  border-bottom: 10px solid rgb(166, 252, 158);
+
+}
+.uname h6
+{
+
+  margin-top: 25px;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  width: 450px;
+  margin-left: -18px;
+  font-weight: lighter;
+  padding-left: 15px;
+  height: 33px;
+  font-size: 12px;
+  color: silver;
+  padding-bottom: 15px;
+
+
+}
+
+.phn h6
+{
+
+  margin-top: 25px;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  width: 450px;
+  margin-left: -18px;
+  padding-left: 15px;
+  height: 33px;
+  padding-bottom: 15px;
+
+
+}
+
+
+
+
+.mail h6
+{
+
+  margin-top: 25px;
+  border-bottom: 1px solid rgb(231, 231, 231);
+  width: 450px;
+  margin-left: -18px;
+  padding-left: 15px;
+  height: 33px;
+  padding-bottom: 15px;
+
+
+}
+.loginlitweet h6{
+
+  font-size: 12px;
+}
+.us{
+  margin-top: -60px;
+}
+.loginli h6{
+  color:silver;
+  margin-top: -5px;
+  margin-right: -150px;
+  font-weight: lighter;
+}
+.tweet
+{
+  border-bottom: 1px solid rgb(231, 231, 231);
+  margin-left: -18px;
+  padding-left: 15px;
+  height: 33px;
+  padding-bottom: 15px;
+  width: 700px;
+}
+
+.us h6
+{
+  color: black;
+  margin-bottom:-1px ;
+}
+
+.loginlinew
+{
+  color:silver;
+  margin-right: -150px;
+  
+  border-bottom: 1px solid rgb(231, 231, 231);
+  font-weight: lighter;
+
+}
+
+#tr
+{
+  border:none;
+  border-bottom: 10px solid rgb(166, 252, 158);
+
+}
+
+.loginlilang
+{
+    margin-top: 20px;
+    font-size: 20px;
+    margin-left: -19px;
+    padding-left: 22px;
+    padding-bottom: 17px;
+    padding-top: 8px;
+    font-weight: 800;
+  
+
+}
+.navigate
+{
+  position: fixed;
+}
+.loginli h6
+{
+  padding-top:  0px;
+}
+.loginli .uname
+{
+  margin-top: -25px;
+  width: 250px;
+}

@@ -1,0 +1,183 @@
+#modaledit
+{
+    width: 650px;
+    background-color: white;
+    margin-left: -60px;
+    border-radius: 15px;
+    visibility: visible;
+    height: 700px;
+}
+#modalll
+{
+    visibility: hidden;
+}
+.birthbtn
+{
+    width: 160px;
+    height: 40px;
+    background-color: transparent;
+    border: 1px solid #65a844;
+    border-radius: 25px;
+    color:#65a844;
+    margin-left: 20px;
+}
+.editbtn
+{
+    width: 190px;
+    height: 45px;
+    background-color:#65a844; 
+    border-radius: 25px;
+    color:black;
+  
+    margin-left: -135px;
+}
+.editbtn button:hover
+{
+    color: #65a844;  
+}
+.editbtn:active
+{
+    outline: none;
+}
+.editmodalbg
+{
+    background-color: silver;
+    width:650px;
+    height: 170px;
+    margin-left: -16px;
+}
+
+#modaledit h3
+{
+    font-weight: bold;
+    margin-left: 35px;
+    font-size: 20px;
+}
+.modalcirc
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: transparent;
+    margin-left: 15px;
+    height: 230px;
+}
+.modalcirc img
+{
+    margin-top: 60px;
+    margin-bottom: 200px;
+    border: 5px solid white;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+   
+}
+.editplus img {
+    margin-top:-310px;
+    margin-left: 80px;
+    height: 50px;
+    width: 50px;
+
+}
+.editplus h3:hover {
+color: aqua;
+}
+.editname
+{
+    background-color: rgb(225, 255, 205);
+    margin-top: 90px;
+}
+.editname input
+{
+    background-color: rgb(225, 255, 205);
+    border:none;
+    border-bottom: 2px solid #65a844;
+    width: 100%;
+    height: 30px;
+}
+.editname label
+{
+    color: #65a844;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+
+
+.editbio
+{
+    background-color: rgb(225, 255, 205);
+    margin-top: 20px;
+}
+.editbio input
+{
+    background-color: rgb(225, 255, 205);
+    border:none;
+    border-bottom: 2px solid #65a844;
+    width: 100%;
+    height: 80px;
+}
+.editbio label
+{
+    color: #65a844;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+.editloc
+{
+    background-color: rgb(225, 255, 205);
+    margin-top: 45px;
+}
+.editloc input
+{
+    background-color: rgb(225, 255, 205);
+    border:none;
+    border-bottom: 2px solid #65a844;
+    width: 100%;
+    height: 30px;
+}
+.editloc label
+{
+    color: #65a844;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+
+.editweb
+{
+    background-color: rgb(225, 255, 205);
+    margin-top: 45px;
+}
+.editweb input
+{
+    background-color: rgb(225, 255, 205);
+    border:none;
+    border-bottom: 2px solid #65a844;
+    width: 100%;
+    height: 30px;
+}
+.editweb label
+{
+    color: #65a844;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.Donebtn
+{
+    width: 160px;
+    height: 40px;
+    background-color:#65a844 ;
+    border: 1px solid #65a844;
+    border-radius: 25px;
+    color:black;
+    margin-left: 20px;  
+}
+.cover-photo{
+    cursor:pointer;
+    margin-left: 42%;
+    
+}

@@ -1,0 +1,50 @@
+.nav{
+  background-color: white;
+    display: inline-block;
+    width: 160px;
+    padding-left: 30px;
+    margin-bottom: 5px;
+    margin-left:50px;
+}
+.navtop{
+    margin-top: 80px;
+
+}
+.navp{
+  
+margin-left: 10px;
+    
+}
+.nav:hover{
+    color: green;
+    background-color:rgba(126,179, 99,0.2);
+    border-radius: 20px;
+    width: 160px;
+    padding-left: 30px;
+    margin-bottom: 5px;
+    margin-left:50px;
+}
+.navlink{
+    text-decoration: none;
+    color:black;
+}
+
+h6{ 
+    display: inline;
+    padding-top: 5px;
+    font-weight: 5px;
+    margin-left: 10px;
+}
+
+h6:hover{
+    color:green;
+
+}
+.s:hover{
+    color:green;
+
+}
+
+.img-handler{
+    width: 20px;
+}

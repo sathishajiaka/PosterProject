@@ -1,0 +1,32 @@
+
+.tt{
+   
+   
+   
+    left: 590px;
+    top: 230px;
+    color:  #65A844;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 16px;
+    margin-Top:-55px;
+    margin-left: 40px;
+         
+    }
+    .dd{ width: 23px;
+        height:23px;
+        border-Radius:5px;
+        margin-Top:-20px;
+        margin-Left:53px;
+    background-color: white;}
+
+
+  .add{ width: 25px;
+            height:25px;
+            border-Radius:2px;
+            margin-Top:13px;
+            margin-Left:15px}
+            .ssd{ width: 25px;
+                height:25px;}

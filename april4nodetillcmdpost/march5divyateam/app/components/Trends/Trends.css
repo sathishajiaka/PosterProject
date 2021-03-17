@@ -1,0 +1,162 @@
+.trend{
+    
+    border-radius:0px;
+    width:360px;
+    height:260px;
+    margin-Left:600px;
+    margin-Top:-4320px;
+    position: fixed;
+   
+
+}
+
+.th{
+   
+    font-family: Roboto;
+font-style: normal;
+    
+    font-style: normal;
+    font-weight: 2000;
+    font-size: 24px;
+    line-height: 45px;
+    margin-left: 35px;
+    margin-top:20px ;
+    color: #000000;
+
+}
+.tha{
+   
+    font-family: Roboto;
+font-style: normal;
+    
+    font-style: normal;
+    font-weight: 1900;
+    font-size: 24px;
+    line-height: 45px;
+    margin-left: 20px;
+    margin-top:5px ;
+    color: #000000;
+
+}
+
+.tb{
+   
+    
+font-family: Roboto;
+font-style: normal;
+font-weight: 650;
+font-size: 15px;
+line-height:10px;
+margin-left: 25px;
+margin-top:-1px;
+
+cursor: pointer;
+
+
+color: #000000;
+
+}
+
+
+.trenda{
+    width:360px;
+    height:300px;
+    
+    margin-Left:600px;
+    margin-Top:20px;
+    border-Radius:15px;
+    position: fixed;
+}
+
+.ha{
+    width: 49px ;
+    height:49px;
+    border-Radius: 30px;
+    margin-Top:2px;
+    margin-left: -1px;
+} 
+
+
+.naa{
+    width: 115px;
+    height: 19px;
+    left: 792px;
+    top: 238px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 50;
+    font-size: 20px;
+    line-height: 19px;
+    margin-left: 75px;
+    margin-Top:-55px;
+    color: #000000;
+    cursor: pointer;
+}
+
+
+
+.aa{
+    left: 590px;
+    top: 230px;
+    color: #5F5F5F;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 16px;
+    margin-Top:-15px;
+    margin-left: 75px;
+    
+    
+}
+
+.aac{
+   
+    margin-Top:-55px;
+    margin-left: 205px;
+    
+    
+}
+
+.followbutton{
+    
+    color:#f30d0d;
+        background-color: rgba(17, 17, 16, 0.2);
+        border-color: black;
+        width: 100px;
+        height: 30px;
+        border-radius: 25px;
+        font-size: 15px;
+        margin-left: 60px;
+        margin-top: -12px;
+    
+}
+.sample {
+      color:#0a0a0a;
+        background-color: rgba(126, 179, 99, 0.2);
+        border-color: black;
+        width: 100px;
+        height: 30px;
+        border-radius: 25px;
+        font-size: 15px;
+        margin-left: 60px;
+        margin-top: -12px;
+      
+}
+
+
+follow
+button.btn-primary {
+    background-color:rgba(121, 214, 129, 0.6);
+    border-color:black;
+    width: 50px;
+    height: 30px;
+   
+    border-radius: 30px;
+    font-size: 15px;
+    }
+    .customContainer {
+    border: 1px solid black;
+    }
+    
+    

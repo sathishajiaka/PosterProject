@@ -1,0 +1,76 @@
+      .style-hhh{
+        font-Family: "sans-serif";
+        text-Align: "center";
+        /* margin: 0px 0 0 -370px; */
+        height: 4px;
+        width: 800px;
+        margin-left: -15px;
+             }
+      
+      .pro-card{
+        width:700px;
+        height:150px;
+        margin-left:-10px;
+        margin-top:10px;
+        background-color:rgb(233, 230, 230);
+      }
+
+      .pro-cards{
+        width:700px;
+        height:150px;
+        margin-left:-10px;
+        margin-top:10px;
+        background-color:rgb(233, 230, 230);
+      }
+            
+      .headerbelow{
+        margin-left: 130px;        
+        margin-top : -110px;
+      }
+      
+      .headerbe{
+        margin-left: 255px;
+        margin-top: -54px;
+        font-weight: lighter;
+      }
+      
+      .profiles{
+        width: 80px;
+        height: 110px;
+        margin-left:10px;
+        margin-top: 20px  ;
+        background-color: grey;
+        border-radius: 100px;
+        width:110px;
+        height: 110px;
+      }
+      
+      .postdate{
+      
+        margin-left: 390px;
+        margin-top: -57px;
+        font-weight: lighter;
+      
+      }
+      
+      .link{
+      
+        margin-left: 130px;
+        margin-top: -10px;
+        font-weight: lighter;
+        color: rgb(23, 124, 23);
+      
+      }
+
+      #tab1{
+      
+        margin-left:0px;
+       width: 300px;
+       margin-top: px;
+      }
+      #tab2{
+      
+        margin-left:0px;
+        width: 300px;
+      
+      }

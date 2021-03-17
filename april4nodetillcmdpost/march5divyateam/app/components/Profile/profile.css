@@ -1,0 +1,98 @@
+.profile
+{
+    width: 610px;
+    background-color: white;
+    height: 55px;
+    overflow: hidden;
+    margin-left: -98px;
+    margin-top: -75px;
+    position: fixed;
+    border-bottom: 1px solid rgb(231, 231, 231);
+}
+.profbg
+{
+    background-color: rgb(206, 209, 206);
+    width: 610px;
+    height: 200px;
+    position: fixed;
+    margin-left: -96.5px;
+    margin-top: -20px;
+}
+.profile h5
+{
+    margin-left: 25px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.profile p
+{
+    color: gray;
+    padding-left: 26px;
+    font-weight: lighter;
+    margin-top: -5px;
+    font-size: 12px;
+}
+.profcir
+{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 10px;
+    margin-top: 110px;
+    border: 4px solid white;
+}
+.editprofile
+{
+    margin-left: 550px;
+    margin-top: -35px;
+}
+.profdet h5
+{
+    color:black;
+    font-size: 18px;
+    margin-left: 40px;
+}
+.profdet p
+{
+    font-size: 15px;
+    font-weight: lighter;
+    color: gray;
+    margin-left: 40px;
+    margin-top: -9px;
+}
+.profbio img
+{
+    margin-top: -7px;
+}
+.profbio p
+{
+    color: gray;
+    font-size: 13px;
+}
+.profbio
+{
+    margin-left: 38px;
+    margin-top: -10px;
+}
+.follow 
+{
+    display: flex;
+    margin-left: -12px;
+    margin-top: -8px;
+}
+.follow p a
+{
+    text-decoration: none;
+    color: gray;
+}
+.follow p a
+{
+    display: flex;
+    padding-left: 15px;
+}
+.follow span
+{
+    color: black;
+    font-weight: bold;
+}
